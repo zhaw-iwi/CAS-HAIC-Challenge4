@@ -1,0 +1,7 @@
+{
+  "sources_sha256": "e75f4e4cd6d2bce7e486be4f281ee9af2429a686302669e1820958906cd2273f",
+  "passages_sha256": "5f8b1cfab9e50b26f79deece87b4c5e0f257109528a254b10765b58283a67894",
+  "passage_count": 48,
+  "extraction": "pypdf layout; whitespace normalised; soft hyphens removed",
+  "review_status": "page_selection_checked; full_text_and_references_pending"
+}

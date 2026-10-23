@@ -1,0 +1,7 @@
+# Explicit opt-in: add this file after compose.yaml to enable paid API buttons.
+services:
+  challenge:
+    env_file:
+      - .env
+    environment:
+      CHALLENGE_OFFLINE: "0"

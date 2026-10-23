@@ -1,0 +1,5 @@
+{
+  "embedding_model": "text-embedding-3-small",
+  "generation_model": "",
+  "evaluation_model": "gpt-6-luna"
+}

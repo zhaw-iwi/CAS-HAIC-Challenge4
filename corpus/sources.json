@@ -1,0 +1,284 @@
+[
+  {
+    "ballot_id": "A2024",
+    "title": "Für ein besseres Leben im Alter (Initiative für eine 13. AHV-Rente)",
+    "ballot_date": "2024-03-03",
+    "information_cutoff": "2024-03-02",
+    "cutoff_note": "Simulierter Wissensstand vor dem Urnengang; kein Publikationsdatum.",
+    "source_url": "https://swissvotes.ch/vote/665.00/brochure-de.pdf",
+    "status": "available",
+    "filename": "A2024.pdf",
+    "extraction_review_status": "pending_full_text_audit",
+    "sections": [
+      {
+        "name": "In Kürze",
+        "source_role": "Amtliche Kurzfassung mit zugeschriebenen Positionen",
+        "pdf_pages": [
+          4,
+          5
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Im Detail",
+        "source_role": "Erläuterungen der Behörden",
+        "pdf_pages": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Initiativkomitee",
+        "source_role": "Argumente des Initiativkomitees",
+        "pdf_pages": [
+          14,
+          15
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Bundesrat und Parlament",
+        "source_role": "Argumente von Bundesrat und Parlament",
+        "pdf_pages": [
+          16,
+          17
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Abstimmungstext",
+        "source_role": "Originaler Abstimmungstext",
+        "pdf_pages": [
+          18
+        ],
+        "printed_page_offset": 0
+      }
+    ],
+    "discovery_url": "https://swissvotes.ch/vote/665.00",
+    "swissvotes_id": 665,
+    "source_sha256": "53c7cc72c28f80969ed56d7813ad8c05e505b1817923418d0dfa45368a6bd07e",
+    "retrieved_at_utc": "2026-10-22T19:16:49.700410+00:00",
+    "page_selection_review_status": "checked_against_booklet_headings",
+    "required_markers": [
+      "Altersrente",
+      "Ergänzungsleistungen"
+    ],
+    "extraction_note": "Original-PDF erhalten; Textextraktion bildet Grafiken und Tabellen nicht vollständig ab.",
+    "selection_note": "Seiten ohne extrahierbaren Inhalt (z.B. reine Grafik oder Leerseite) ausgelassen; Original-PDF bleibt vollständig."
+  },
+  {
+    "ballot_id": "R2024",
+    "title": "Für eine sichere und nachhaltige Altersvorsorge (Renteninitiative)",
+    "ballot_date": "2024-03-03",
+    "information_cutoff": "2024-03-02",
+    "cutoff_note": "Simulierter Wissensstand vor dem Urnengang; kein Publikationsdatum.",
+    "source_url": "https://swissvotes.ch/vote/666.00/brochure-de.pdf",
+    "status": "available",
+    "filename": "R2024.pdf",
+    "extraction_review_status": "pending_full_text_audit",
+    "sections": [
+      {
+        "name": "In Kürze",
+        "source_role": "Amtliche Kurzfassung mit zugeschriebenen Positionen",
+        "pdf_pages": [
+          6,
+          7
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Im Detail",
+        "source_role": "Erläuterungen der Behörden",
+        "pdf_pages": [
+          20,
+          21,
+          22,
+          24
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Initiativkomitee",
+        "source_role": "Argumente des Initiativkomitees",
+        "pdf_pages": [
+          26,
+          27
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Bundesrat und Parlament",
+        "source_role": "Argumente von Bundesrat und Parlament",
+        "pdf_pages": [
+          28,
+          29
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Abstimmungstext",
+        "source_role": "Originaler Abstimmungstext",
+        "pdf_pages": [
+          30,
+          31
+        ],
+        "printed_page_offset": 0
+      }
+    ],
+    "discovery_url": "https://swissvotes.ch/vote/666.00",
+    "swissvotes_id": 666,
+    "source_sha256": "53c7cc72c28f80969ed56d7813ad8c05e505b1817923418d0dfa45368a6bd07e",
+    "retrieved_at_utc": "2026-10-22T19:16:50.040124+00:00",
+    "page_selection_review_status": "checked_against_booklet_headings",
+    "required_markers": [
+      "Rentenalter",
+      "Lebenserwartung"
+    ],
+    "extraction_note": "Original-PDF erhalten; Textextraktion bildet Grafiken und Tabellen nicht vollständig ab.",
+    "selection_note": "Seiten ohne extrahierbaren Inhalt (z.B. reine Grafik oder Leerseite) ausgelassen; Original-PDF bleibt vollständig."
+  },
+  {
+    "ballot_id": "P2024",
+    "title": "Maximal 10% des Einkommens für die Krankenkassenprämien (Prämien-Entlastungs-Initiative)",
+    "ballot_date": "2024-06-09",
+    "information_cutoff": "2024-06-08",
+    "cutoff_note": "Simulierter Wissensstand vor dem Urnengang; kein Publikationsdatum.",
+    "source_url": "https://swissvotes.ch/vote/667.00/brochure-de.pdf",
+    "status": "available",
+    "filename": "P2024.pdf",
+    "extraction_review_status": "pending_full_text_audit",
+    "sections": [
+      {
+        "name": "In Kürze",
+        "source_role": "Amtliche Kurzfassung mit zugeschriebenen Positionen",
+        "pdf_pages": [
+          4,
+          5
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Im Detail",
+        "source_role": "Erläuterungen der Behörden",
+        "pdf_pages": [
+          12,
+          13,
+          14,
+          15
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Initiativkomitee",
+        "source_role": "Argumente des Initiativkomitees",
+        "pdf_pages": [
+          16,
+          17
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Bundesrat und Parlament",
+        "source_role": "Argumente von Bundesrat und Parlament",
+        "pdf_pages": [
+          18,
+          19
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Abstimmungstext",
+        "source_role": "Originaler Abstimmungstext",
+        "pdf_pages": [
+          20,
+          21
+        ],
+        "printed_page_offset": 0
+      }
+    ],
+    "discovery_url": "https://swissvotes.ch/vote/667.00",
+    "swissvotes_id": 667,
+    "source_sha256": "b5ced6e09502bf5956ce6219c8332a1611566b19a8d8ff7ddf3beb6c44924f92",
+    "retrieved_at_utc": "2026-10-22T19:16:50.408819+00:00",
+    "page_selection_review_status": "checked_against_booklet_headings",
+    "required_markers": [
+      "Prämien",
+      "Einkommen"
+    ],
+    "extraction_note": "Original-PDF erhalten; Textextraktion bildet Grafiken und Tabellen nicht vollständig ab."
+  },
+  {
+    "ballot_id": "K2024",
+    "title": "Für tiefere Prämien – Kostenbremse im Gesundheitswesen (Kostenbremse-Initiative)",
+    "ballot_date": "2024-06-09",
+    "information_cutoff": "2024-06-08",
+    "cutoff_note": "Simulierter Wissensstand vor dem Urnengang; kein Publikationsdatum.",
+    "source_url": "https://swissvotes.ch/vote/668.00/brochure-de.pdf",
+    "status": "available",
+    "filename": "K2024.pdf",
+    "extraction_review_status": "pending_full_text_audit",
+    "sections": [
+      {
+        "name": "In Kürze",
+        "source_role": "Amtliche Kurzfassung mit zugeschriebenen Positionen",
+        "pdf_pages": [
+          6,
+          7
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Im Detail",
+        "source_role": "Erläuterungen der Behörden",
+        "pdf_pages": [
+          22,
+          23,
+          24,
+          25
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Initiativkomitee",
+        "source_role": "Argumente des Initiativkomitees",
+        "pdf_pages": [
+          26,
+          27
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Bundesrat und Parlament",
+        "source_role": "Argumente von Bundesrat und Parlament",
+        "pdf_pages": [
+          28,
+          29
+        ],
+        "printed_page_offset": 0
+      },
+      {
+        "name": "Abstimmungstext",
+        "source_role": "Originaler Abstimmungstext",
+        "pdf_pages": [
+          30,
+          31
+        ],
+        "printed_page_offset": 0
+      }
+    ],
+    "discovery_url": "https://swissvotes.ch/vote/668.00",
+    "swissvotes_id": 668,
+    "source_sha256": "b5ced6e09502bf5956ce6219c8332a1611566b19a8d8ff7ddf3beb6c44924f92",
+    "retrieved_at_utc": "2026-10-22T19:16:50.785308+00:00",
+    "page_selection_review_status": "checked_against_booklet_headings",
+    "required_markers": [
+      "Kostenbremse",
+      "Löhne"
+    ],
+    "extraction_note": "Original-PDF erhalten; Textextraktion bildet Grafiken und Tabellen nicht vollständig ab."
+  }
+]

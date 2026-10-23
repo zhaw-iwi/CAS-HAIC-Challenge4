@@ -1,0 +1,11 @@
+services:
+  challenge:
+    build: .
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    ports:
+      - "127.0.0.1:8889:8889"
+    init: true
+    environment:
+      CHALLENGE_OFFLINE: "1"
